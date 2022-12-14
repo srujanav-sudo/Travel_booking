@@ -58,4 +58,3 @@ A tour operator booking app with a REST API using MongoDB, Mongoose, Express and
 - sending tokens in secure cookies and reading them with cookie-parser.
 - sanitizing data with express-mongo-sanitize, xss-clean and hpp.
 
-Based on [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann (2019).

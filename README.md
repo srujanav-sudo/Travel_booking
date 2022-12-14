@@ -2,27 +2,7 @@
 
 A tour operator booking app with a REST API using MongoDB, Mongoose, Express and Stripe.
 
-## 1) Node.js Basics - Node Farm
-
-A very simple API to understand Node.js and NPM basics.
-
-[See node-farm folder](node-farm)
-
-<p align="center">
-  <a href="node-farm">
-    <img src="node-farm/screenshot.png" alt="Screenshot of Node Farm">
-  </a>
-</p>
-
-### Features
-
-- using core modules, third-party modules and our own modules.
-- reading and writing files with fs.
-- building a basic server with http.createServer and handling routes.
-- building templates and parsing variables from URLs.
-- creating nice URLs with slugify.
-
-## 2) Tour Operator Booking App - Natours
+## 1) Tour Operator Booking App - Natours
 
 A tour operator booking app with a REST API using MongoDB, Mongoose, Express and Stripe.
 
@@ -84,4 +64,4 @@ A tour operator booking app with a REST API using MongoDB, Mongoose, Express and
 - sending tokens in secure cookies and reading them with cookie-parser.
 - sanitizing data with express-mongo-sanitize, xss-clean and hpp.
 
-Based on [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann (2019).
+
